@@ -16,6 +16,8 @@ $booking = new Booking(
     ''
 );
  
+//Tite
+
 $bookableCell = new BookableCell($booking);
  
 $calendar = new Calendar();
